@@ -1,4 +1,3 @@
 This is sample file
 This is second line
 This is new line
-This is fourth line
