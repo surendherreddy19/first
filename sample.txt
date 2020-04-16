@@ -3,3 +3,4 @@ This is second line
 This is new line
 
 This is fourth line
+ssh -i "jenkins123.pem" ec2-user@ec2-3-135-62-31.us-east-2.compute.amazonaws.com
