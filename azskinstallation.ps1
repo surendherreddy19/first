@@ -1,3 +1,3 @@
 ﻿#installing azsk module on the vm
-Set-ExecutionPolicy RemoteSigned -Force
-Install-Module AzSK -Scope CurrentUser -AllowClobber
+Set-ExecutionPolicy Unrestricted -Force
+Install-Module AzSK -Scope AllUsers -AllowClobber -Force
